@@ -12,3 +12,6 @@ body{
    margin: 5px;
    letter-spacing: -1px;
    color: white;
+.download:hover {
+  color: #CEDD3E
+}   
