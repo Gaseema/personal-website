@@ -6,3 +6,5 @@ body{
 @import url(http://fonts.googleapis.com/css?family=Varela+Round);.nav-list {
   list-style: none;
 }
+.nav-list li {
+  position: relative;
