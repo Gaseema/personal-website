@@ -57,3 +57,5 @@ body{
 }
 .nav-list li:not(.selected):before {
   left: 0;
+   right: -2px;
+}
