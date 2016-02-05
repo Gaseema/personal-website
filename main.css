@@ -63,3 +63,5 @@ body{
   left: 0;
     right: 39px;
 }
+.nav-list .selected a:before {
+  height: 22px;
