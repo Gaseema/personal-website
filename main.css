@@ -21,3 +21,6 @@ body{
 .features a:before {
   background-color: #F27132;
 }
+.features:hover {
+  color: #F27132;
+}
