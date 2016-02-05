@@ -70,3 +70,8 @@ body{
   right: 5px;
   transform: rotate(30deg);
 }
+/* NAV */
+
+body {
+  font-family: 'Varela Round', sans-serif;
+}
