@@ -24,3 +24,9 @@ body{
 .features:hover {
   color: #F27132;
 }
+.method:after,
+.method:before,
+.method a:after,
+.method a:before {
+  background-color: #85C3E9;
+}
