@@ -33,3 +33,9 @@ body{
 .method:hover {
   color: #85C3E9;
 }
+.purchase:after,
+.purchase:before,
+.purchase a:after,
+.purchase a:before {
+  background-color: #FDBE2A;
+}
