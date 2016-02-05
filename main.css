@@ -9,3 +9,4 @@ body{
 .nav-list li {
   position: relative;
   display: inline-block;
+   margin: 5px;
