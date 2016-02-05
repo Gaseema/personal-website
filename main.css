@@ -39,3 +39,6 @@ body{
 .purchase a:before {
   background-color: #FDBE2A;
 }
+.purchase:hover {
+  color: #FDBE2A;
+}
