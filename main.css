@@ -30,3 +30,6 @@ body{
 .method a:before {
   background-color: #85C3E9;
 }
+.method:hover {
+  color: #85C3E9;
+}
