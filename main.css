@@ -113,3 +113,6 @@ h1 {
 }
 .image h2 span{
     color: #CEDD3E;
+    /*about*/
+.about h5{
+    font-size: 3vw;
