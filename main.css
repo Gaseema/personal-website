@@ -42,3 +42,8 @@ body{
 .purchase:hover {
   color: #FDBE2A;
 }
+.nav-list li:after,
+.nav-list li:before,
+.nav-list a:before,
+.nav-list a:after {
+  position: absolute;
