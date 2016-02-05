@@ -8,3 +8,4 @@ body{
 }
 .nav-list li {
   position: relative;
+  display: inline-block;
