@@ -53,3 +53,5 @@ body{
 .nav-list li:after,
 .nav-list li:before {
   bottom: -4px;
+   height: 4px;
+}
