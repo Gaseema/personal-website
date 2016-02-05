@@ -65,3 +65,4 @@ body{
 }
 .nav-list .selected a:before {
   height: 22px;
+  width: 4px;
