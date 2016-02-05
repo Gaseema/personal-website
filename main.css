@@ -68,3 +68,5 @@ body{
   width: 4px;
   bottom:-13;
   right: 5px;
+  transform: rotate(30deg);
+}
