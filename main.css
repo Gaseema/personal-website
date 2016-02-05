@@ -118,3 +118,6 @@ h1 {
     font-size: 3vw;
      text-align: center;
 }
+.about h5 span{
+    color: red;
+}
