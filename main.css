@@ -15,3 +15,9 @@ body{
 .download:hover {
   color: #CEDD3E
 }   
+.features:after,
+.features:before,
+.features a:after,
+.features a:before {
+  background-color: #F27132;
+}
