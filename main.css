@@ -61,3 +61,5 @@ body{
 }
 .nav-list li.selected:after {
   left: 0;
+    right: 39px;
+}
