@@ -109,4 +109,7 @@ h1 {
      width: 100%; 
      text-align: center;
      color: white;
-     font-size: 2vw
+     font-size: 2vw;
+}
+.image h2 span{
+    color: #CEDD3E;
